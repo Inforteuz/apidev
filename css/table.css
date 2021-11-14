@@ -1,3 +1,10 @@
+* {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+body {
+	background-color: #f5f5f5;
+}
 table{
 	margin-left: 100px;
 	border-collapse: collapse;
